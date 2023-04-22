@@ -3,15 +3,15 @@ package studyingjava;
 public class variables_class11 {
     public static void main(String[] args) {
 
-        byte idade01 = 20;
-        short idade02 = 21;
-        int idade03 = 22;
-        long idade04 = 23;
+        byte age01 = 20;
+        short age02 = 21;
+        int age03 = 22;
+        long age04 = 23;
 
-        System.out.println("Valor da variavel idade01: " + idade01);
-        System.out.println("Valor da variavel idade02: " + idade02);
-        System.out.println("Valor da variavel idade03: " + idade03);
-        System.out.println("Valor da variavel idade04: " + idade04);
+        System.out.println("Variable value age01: " + age01);
+        System.out.println("Variable value age02: " + age02);
+        System.out.println("Variable value age03: " + age03);
+        System.out.println("Variable value age04: " + age04);
 
     }
 }
