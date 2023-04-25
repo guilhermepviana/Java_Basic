@@ -16,7 +16,7 @@ public class leitura_dados {
         System.out.println("Your first name is " + firstName);
 
         System.out.print("Enter your age: ");
-        String age = scan01.next();
+        int age = scan01.nextInt();
         System.out.println("Your age is " + age);
 
     }
